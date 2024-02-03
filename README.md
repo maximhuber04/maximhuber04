@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently reorganizing my GitHub, which is why I have no public repositories at the moment.
+I am reorganizing my GitHub, which is why I have no public repositories at the moment.
 
 If you are interested in the projects I have worked on, please dm me at <a href="mailto:maximhuber@student.ethz.ch">maximhuber@student.ethz.ch</a> .
 
