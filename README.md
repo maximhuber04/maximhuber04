@@ -6,7 +6,6 @@ If you are interested in the projects I have worked on, please dm me at <a href=
 
 **Related Profiles**
 - Solving programming problems on [LeetCode](https://leetcode.com/maximhuber/)
-- Currently getting started on [Kaggle](https://www.kaggle.com/maximhuber04)
 
 <!--
 **maximhuber04/maximhuber04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
